@@ -48,3 +48,12 @@ result = wellness_pipeline(user_input)
 print(result)
 
 
+
+{
+  "mood": "high_stress",
+  "stress_score": 90,
+  "strategy": "Try grounding techniques: 5 things you see, 4 you can touch, 3 you can hear.",
+  "routine": ["Breathing exercise", "Talk to a trusted friend", "Rest for 30 minutes"],
+  "escalation": "⚠️ You seem highly distressed. You are not alone. Talk to someone you trust."
+}
+
